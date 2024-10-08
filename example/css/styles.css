@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  stroke: #000;
+  stroke-width: 1;
+}
